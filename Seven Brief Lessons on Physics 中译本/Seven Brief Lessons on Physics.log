@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.10.14)  17 OCT 2017 19:39
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.10.14)  17 OCT 2017 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3431,7 +3431,7 @@ Package: xeCJK-listings 2017/05/15 v3.4.8 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count292
 \l__xeCJK_listings_flag_int=\count293
 )
-No file "Seven Brief Lessons on Physics".aux.
+(./Seven Brief Lessons on Physics.aux)
 \openout1 = `"Seven Brief Lessons on Physics.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 216.
@@ -3452,6 +3452,7 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 216.
 LaTeX Font Info:    ... okay on input line 216.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 216.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 216.
+
 (d:/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
@@ -3483,12 +3484,11 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 216.
 LaTeX Info: Redefining \pageref on input line 216.
 LaTeX Info: Redefining \nameref on input line 216.
+
+(./Seven Brief Lessons on Physics.out) (./Seven Brief Lessons on Physics.out)
 \@outlinefile=\write4
 \openout4 = `"Seven Brief Lessons on Physics.out"'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 (./00.cover.tex
 Requested font "Alegreya/OT:script=latn;language=DFLT;+lnum;mapping=tex-text;" 
@@ -3805,6 +3805,14 @@ Requested font "Alegreya/I/OT:script=latn;language=DFLT;+lnum;mapping=tex-text;
 tf
 Requested font "KaiTi/OT:script=hani;language=DFLT;" at 24.88pt
  -> C:/Windows/fonts/simkai.ttf
+
+(./Seven Brief Lessons on Physics.toc
+Requested font "Alegreya/B/OT:script=latn;language=DFLT;+lnum;mapping=tex-text;
+" at 12.0pt
+ -> D:/texlive/2017/texmf-dist/fonts/truetype/huerta/alegreya/Alegreya-Bold.ttf
+Requested font "SimHei/OT:script=hani;language=DFLT;" at 12.0pt
+ -> C:/Windows/fonts/simhei.ttf
+)
 \tf@toc=\write5
 \openout5 = `"Seven Brief Lessons on Physics.toc"'.
 
@@ -3825,15 +3833,15 @@ m;mapping=tex-text;" at 12.0pt
 
 ] [2
 
-]
-(./00.abstract.tex
+] (./00.abstract.tex
 Requested font "SimSun/OT:script=hani;language=DFLT;" at 12.0pt
  -> C:/Windows/fonts/simsun.ttc
 ) [3
 
 ] [4
 
-] (./01.tex
+]
+(./01.tex
 第一章
 Requested font "Alegreya/OT:script=latn;language=DFLT;+lnum;mapping=tex-text;" 
 at 380.0pt
@@ -4033,16 +4041,13 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 297.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 42219 strings out of 493005
- 848998 string characters out of 6137955
+ 42252 strings out of 493005
+ 850615 string characters out of 6137955
  876753 words of memory out of 5000000
- 45380 multiletter control sequences out of 15000+600000
- 16270 words of font info for 149 fonts, out of 8000000 for 9000
+ 45404 multiletter control sequences out of 15000+600000
+ 16278 words of font info for 150 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  57i,13n,97p,10461b,1123s stack positions out of 5000i,500n,10000p,200000b,80000s
 
